@@ -17,7 +17,7 @@
 ![Screen2](https://github.com/MrVanG0gh/Netology_sflt_01/blob/main/screenshots/Screen1_2.png)
 
 Доработанная схема для CPT:
-(https://github.com/MrVanG0gh/Netology_sflt_01/blob/main/files/Exercise1.pkt)
+[.pkt file](https://github.com/MrVanG0gh/Netology_sflt_01/blob/main/files/Exercise1.pkt)
 
 
 
